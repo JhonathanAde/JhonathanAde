@@ -1,6 +1,6 @@
 <h1> Welcome Visitor! I'm Jhonathan Ade 👋🏾 </h1>
 
-- 🎮 I'm currently learning game development using JavaScript and C# (with Unity).
+<!-- - 🎮 I'm currently learning game development using JavaScript and C# (with Unity). -->
 - 👨🏾‍💻 I am a Software Engineer, Designer, Animator, and Bboy(breakdancer).
 
 
